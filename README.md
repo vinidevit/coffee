@@ -4,6 +4,8 @@
 
 Este é um projeto de uma cafeteria que foi desenvolvido para um projeto freelancer. O sistema permite aos usuários visualizar o cardápio com preços de forma interativa, além de fornecer informações sobre a loja, localização e formas de contato.
 
+Acesse o projeto através do link: https://vinidevit.github.io/coffee/
+
 ![Imagem do projeto](imagens/screencapture-127-0-0-1-5500-index-html-2025-03-05-17_20_53.png)
 
 ## Tecnologias Utilizadas
